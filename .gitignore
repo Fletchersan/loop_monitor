@@ -1,0 +1,5 @@
+.loop_env
+__pycache__/
+*/__pycache__/
+csvs
+docker.txt
